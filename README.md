@@ -1,7 +1,7 @@
 # DotNetCurry Magazine Store
-http://www.dotnetcurry.com/magazine/
-
 Subscribe at here: http://www.dotnetcurry.com/magazine/
+
+> Note: This repository is just a backup for myself
 
 |Editions|PDF|Double-Spread PDF|ZIP Format|
 |--- |--- |--- |--- |
