@@ -7,7 +7,9 @@ Subscribe at here: http://www.dotnetcurry.com/magazine/
 
 |No.|Editions|PDF|Double-Spread PDF|ZIP Format|
 |--- |--- |--- |--- |--- |
-|38|Sep 2018 (latest verion)	|<a href="Files\38-Sep-2018\pdf.pdf" target="_blank">Download PDF</a>|Download PDF|Download ZIP|
+|40|Jan 2019 (latest verion)	|<a href="Files\40-Jan-2019\pdf.pdf" target="_blank">Download PDF</a>|Download PDF|Download ZIP|
+|39|Nov 2018					|<a href="Files\39-Nov-2018\pdf.pdf" target="_blank">Download PDF</a>|Download PDF|Download ZIP|
+|38|Sep 2018					|<a href="Files\38-Sep-2018\pdf.pdf" target="_blank">Download PDF</a>|Download PDF|Download ZIP|
 |37|Jul 2018 -6th Anniv			|<a href="Files\37-Jul-2018\pdf.pdf" target="_blank">Download PDF</a>|Download PDF|Download ZIP|
 |36|May 2018					|<a href="Files\36-May-2018\pdf.pdf" target="_blank">Download PDF</a>|Download PDF|Download ZIP|
 |35|Mar 2018					|<a href="Files\35-Mar-2018\pdf.pdf" target="_blank">Download PDF</a>|Download PDF|Download ZIP|
